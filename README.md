@@ -1,9 +1,11 @@
 # 🚀 LeetCode Mastery - DSA for Beginners & Intermediate
 
-![Stars](https://img.shields.io/github/stars/Vinay-Pratap-Singh-Sengar/LeetCode-Mastery?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Vinay-Pratap-Singh-Sengar/LeetCode-Mastery?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/Vinay-Pratap-Singh-Sengar/LeetCode-Mastery?style=for-the-badge)
-![Visitors](https://komarev.com/ghpvc/?username=Vinay-Pratap-Singh-Sengar\&repo=LeetCode-Mastery\&color=blue\&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Vinay-Pratap-Singh-Sengar/LeetCode-Mastery?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Vinay-Pratap-Singh-Sengar/LeetCode-Mastery?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/Vinay-Pratap-Singh-Sengar/LeetCode-Mastery?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Vinay-Pratap-Singh-Sengar&repo=LeetCode-Mastery&style=for-the-badge" />
+</p>
 
 ---
 
